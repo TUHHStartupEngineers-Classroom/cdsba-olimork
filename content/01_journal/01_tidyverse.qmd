@@ -1,6 +1,6 @@
 ---
 title: "Tidyverse"
-author: "Oliver Mork"
+author: "Oli Mork"
 ---
 
 ::: callout-note
